@@ -1,0 +1,180 @@
+{
+  "project_info": {
+    "project_number": "110855982791",
+    "firebase_url": "https://rexnursepaycalc.firebaseio.com",
+    "project_id": "rexnursepaycalc",
+    "storage_bucket": "rexnursepaycalc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110855982791:android:0a6d4c4b7d483341",
+        "android_client_info": {
+          "package_name": "com.example.firebase_lesson_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110855982791-77opf773ct76rqrn1jccbnat9998bgk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_lesson_v1",
+            "certificate_hash": "4cc714b58a12e6423814a1cd512203dad022e55d"
+          }
+        },
+        {
+          "client_id": "110855982791-1hfmj0rj4cmh83sml04ukpfntec3fgh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4AhjBghhM_SoAlLlDT_ZhNDc4fgVaCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110855982791-1hfmj0rj4cmh83sml04ukpfntec3fgh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110855982791:android:904c7ac4a671a13b",
+        "android_client_info": {
+          "package_name": "com.example.learn_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110855982791-1hfmj0rj4cmh83sml04ukpfntec3fgh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4AhjBghhM_SoAlLlDT_ZhNDc4fgVaCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110855982791-1hfmj0rj4cmh83sml04ukpfntec3fgh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110855982791:android:df22ebedafef81e5",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110855982791-1hfmj0rj4cmh83sml04ukpfntec3fgh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4AhjBghhM_SoAlLlDT_ZhNDc4fgVaCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110855982791-1hfmj0rj4cmh83sml04ukpfntec3fgh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110855982791:android:4185aa772d383924",
+        "android_client_info": {
+          "package_name": "com.example.rex_nurse_pay_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110855982791-f4u5f9d0rrlgq3t2h0dh5o1g8kvb2vs1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rex_nurse_pay_v1",
+            "certificate_hash": "4cc714b58a12e6423814a1cd512203dad022e55d"
+          }
+        },
+        {
+          "client_id": "110855982791-1hfmj0rj4cmh83sml04ukpfntec3fgh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4AhjBghhM_SoAlLlDT_ZhNDc4fgVaCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110855982791-1hfmj0rj4cmh83sml04ukpfntec3fgh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110855982791:android:74e3409c518991bf",
+        "android_client_info": {
+          "package_name": "com.example.simple_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110855982791-s3cbfv8kjknepds1rbjfijmiq1tmosqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simple_firebase_auth",
+            "certificate_hash": "4cc714b58a12e6423814a1cd512203dad022e55d"
+          }
+        },
+        {
+          "client_id": "110855982791-1hfmj0rj4cmh83sml04ukpfntec3fgh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4AhjBghhM_SoAlLlDT_ZhNDc4fgVaCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110855982791-1hfmj0rj4cmh83sml04ukpfntec3fgh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
